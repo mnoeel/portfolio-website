@@ -177,15 +177,15 @@ section {
   padding: 2rem;
   flex-wrap: wrap; /* fallback for smaller widths */
 }
-
+/*
 .section__pic-container {
   display: flex;
   height: 400px;
   width: 400px;
   margin: auto 0;
-}
+}*/
 
-.section__pic-container-pro {
+.section__pic-container {
   flex-shrink: 0;
   height: 300px;
   width: 300px;
