@@ -305,8 +305,8 @@ section {
 }
 
 .section-container {
-  gap: 4rem;
-  height: 80%;
+  display: flex;
+  justify-content: center;
 }
 
 .section__pic-container {
