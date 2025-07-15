@@ -171,8 +171,8 @@ section {
    
 .section__pic-container {
   display: flex;
-  height: 400px;
-  width: 400px;
+  height: 300px;
+  width: 300px;
   margin: auto 0;
 }  
 
@@ -307,12 +307,6 @@ section {
 .section-container {
   display: flex;
   justify-content: center;
-}
-
-.section__pic-container {
-  height: 400px;
-  width: 400px;
-  margin: auto 0;
 }
 
 /* EXPERIENCE SECTION */
